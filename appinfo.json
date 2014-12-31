@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tore.franzen@gmail.com",
+    "longName": "PebTest",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PebTest",
+    "uuid": "14c1c3a3-02ad-4cb1-bf70-91908f554aa7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
