@@ -7,7 +7,19 @@
     "longName": "PebTest",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/from-cartoon-blocks.ttf",
+                "name": "FROM_CARTOON_BLOCKS_FONT_40",
+                "type": "font"
+            }
+        ]
     },
     "shortName": "PebTest",
     "uuid": "14c1c3a3-02ad-4cb1-bf70-91908f554aa7",
