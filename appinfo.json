@@ -1,13 +1,21 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
-        ""
+        "location"
     ],
     "companyName": "tore.franzen@gmail.com",
     "longName": "PebTest",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_DOS_20",
+                "type": "font"
+            },
             {
                 "file": "images/background.png",
                 "name": "IMAGE_BACKGROUND",
